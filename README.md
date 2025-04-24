@@ -1,6 +1,6 @@
 Hello, this is my page for golden retriever
 
-- **Production**: https://assignment-4-ilp2k8b9m-filipstefanovski1s-projects.vercel.app
+- **Production**: https://assignment-4-2q4fqvqys-filipstefanovski1s-projects.vercel.app
 - **Staging**: https://assignment-4-byo4y62cr-filipstefanovski1s-projects.vercel.app/
 
 
